@@ -7,7 +7,7 @@
 
 Skills: HTML5 / CSS / JS / PHP
 
-[자작 블로그 사이트](http://accountmall.pe.kr/blogforme/main/index.php)
+[*자작 블로그 사이트 바로가기*](http://accountmall.pe.kr/blogforme/main/index.php)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rlawjddnr0523)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/바나나)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/frozen_peach_07/)  
 
