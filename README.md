@@ -1,13 +1,11 @@
 ### Hi there 👋, 안녕하세요!
-#### 저는 평범한 중학생 웹개발자 김정욱이라고 합니다~
+#### 저는 평범한 07년생 프로그래머 김정욱이라고 합니다~
 [*인스타그램 바로가기*](https://www.instagram.com/404_notfound.07)
 
 처음에는 호기심에 웹개발을 접하게 되었는데 그게 취미가 되었고
 지금은 취업까지 생각하고있습니다. 
 
 Skills: HTML5 / CSS / JS / PHP
-
-[*자작 블로그 사이트 바로가기*](http://accountmall.pe.kr/blogforme/main/index.php)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rlawjddnr0523)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/바나나)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/frozen_peach_07/)  
 
