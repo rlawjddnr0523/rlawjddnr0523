@@ -1,5 +1,5 @@
 ![capsule-render](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20To%20my%20GitHub!&animation=blink)
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋,+안녕하세요!;07년생+프로그래머+김정욱이라고+합니다.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋,+안녕하세요!;07년생+프로그래머+김정욱+입니다.)](https://git.io/typing-svg)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rlawjddnr0523)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/바나나)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ajax_7502/)  
 
