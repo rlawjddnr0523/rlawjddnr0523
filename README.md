@@ -1,21 +1,31 @@
-![capsule-render](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20To%20my%20GitHub!&animation=blink)
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋,+안녕하세요!;07년생+프로그래머+김정욱+입니다.)](https://git.io/typing-svg)
+ # Hi 👋, I'm Ivor Kim
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rlawjddnr0523)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/바나나)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ajax_7502/)  
+### A passionate Java developer
 
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+- 🔭 I'm currently working on **a High School Student**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlawjddnr0523)](https://github.com/anuraghazra/github-readme-stats)
+- 🌱 I'm currently learning **Springboot, Cryptologies**
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rlawjddnr0523)  
+- 👯 I'm looking to collaborate on **open source projects**
 
-![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logoColor=%23fff)
-![Static Badge](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logoColor=%23fff)
-![Static Badge](https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logoColor=%23fff)
-![Static Badge](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logoColor=%23fff)
-![Static Badge](https://img.shields.io/badge/nodedotjs-%23339933?style=for-the-badge&logoColor=%23fff)
-![Static Badge](https://img.shields.io/badge/react-%2361DAFB?style=for-the-badge&logoColor=%23fff)
-![Static Badge](https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logoColor=%23fff)
-![Static Badge](https://img.shields.io/badge/php-%23777BB4?style=for-the-badge&logoColor=%23fff)
-![Static Badge](https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logoColor=%23fff)
-![Static Badge](https://img.shields.io/badge/markdown-%23000000?style=for-the-badge&logoColor=%23fff)
+- 🤝 I'm looking for help with **Spring Boot, Java Programming, Corraborate, Cryptologies**
+
+- 💬 Ask me about **React, Web development and Java Programming**
+
+- 📫 How to reach me **kjwook070523@gmail.com**
+
+- ⚡ Fun fact **I like bullshit**
+
+- 📝 I regularly write articles on **[https://velog.io/@rlawjddnr0523](https://velog.io/@rlawjddnr0523)**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/rlawjddnr0523" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="rlawjddnr0523" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aleksei0523" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aleksei0523" height="30" width="40" /></a>
+<a href="https://instagram.com/co.ivex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="co.ivex" height="30" width="40" /></a>
+<a href="https://discord.gg/co.ivex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="co.ivex" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/electron" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=electron" alt="electron" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gcp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/swift" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=swift" alt="swift" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/webpack" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=webpack" alt="webpack" width="40" height="40"/> </a></p>
+
