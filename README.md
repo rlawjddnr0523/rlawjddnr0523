@@ -2,7 +2,7 @@
 
 ### A passionate Java developer
 
-- 🔭 I'm currently working on **a High School Student**
+- 🔭 I'm currently working on **Yeonsung Univ. as a Student**
 
 - 🌱 I'm currently learning **Springboot, Cryptologies**
 
